@@ -42,6 +42,10 @@ Special Scholarship for PhD (and Master) degree.
 - [UST - University of Science and Technology](https://www.ust.ac.kr/prog/entschGuideline/admission_eng/sub02_01_01/list.do)
 - [SOKENDAI](https://www.soken.ac.jp/en/admission/)
 - [Max Planck Institutes](https://www.mpg.de/doctoral_students)
+- [INSAIT – Institute for Computer Science, Artificial Intelligence and Technology](https://insait.ai/join-insait/)
+- [KInIT - Kempelen Institute of Intelligent Technologies(https://kinit.sk/education-training/)
+- [JADS - Jheronimus Academy of Data Science](https://www.jads.nl/education/engd-program-data-science)
+- [MBZUAI - Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/study/phd-programs/)
 - etc.
 
 ---
@@ -240,7 +244,9 @@ PhD Positions in Switzerland
 ## United Kingdom
 
 PhD Positions in the United Kingdom you can find in [jobs.ac.uk Portal](https://www.jobs.ac.uk/search/?activeFacet=locationFacet&sortOrder=1&pageSize=25&startIndex=1&jobTypeFacet%5B0%5D=phds&locationFacet%5B0%5D=europe)
-
+or in UKRI 
+- [AI-CDTs](https://www.ukri.org/who-we-are/our-vision-and-strategy/tomorrows-technologies/how-we-work-in-ai/ukri-artificial-intelligence-centres-for-doctoral-training/)
+- [Council-specific CDTs](https://www.ukri.org/what-we-do/developing-people-and-skills/nerc/nerc-studentships/directed-training/centres-for-doctoral-training-cdt/)
 ---
 
 ## Contributing
